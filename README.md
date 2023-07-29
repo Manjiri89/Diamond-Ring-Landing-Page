@@ -1,4 +1,6 @@
-# Diamond-Ring-Landing-Page![home](https://github.com/Manjiri89/Diamond-Ring-Landing-Page/assets/81363082/5fa0bb05-daff-4cdd-b4d7-b1a52ed645b4)
+
+# Diamond-Ring-Landing-Page  Using Html,Css,JavaScript,Bootstrap,Javascript
+![home](https://github.com/Manjiri89/Diamond-Ring-Landing-Page/assets/81363082/5fa0bb05-daff-4cdd-b4d7-b1a52ed645b4)
 ![feature](https://github.com/Manjiri89/Diamond-Ring-Landing-Page/assets/81363082/6f21544c-4121-4fdc-bbfc-a60b85e1e981)
 ![product](https://github.com/Manjiri89/Diamond-Ring-Landing-Page/assets/81363082/655ecaf5-466b-4b5a-a75d-697f59145a78)
 ![story](https://github.com/Manjiri89/Diamond-Ring-Landing-Page/assets/81363082/e0e666cf-d241-4783-9912-693a973de477)
